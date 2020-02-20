@@ -1,0 +1,12 @@
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Damaged Files Rebuilder\Damaged Files Rebuilder\bin\Debug\Damaged Files Rebuilder.exe.config
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Damaged Files Rebuilder\Damaged Files Rebuilder\bin\Debug\Damaged Files Rebuilder.exe
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Damaged Files Rebuilder\Damaged Files Rebuilder\bin\Debug\Damaged Files Rebuilder.pdb
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Damaged Files Rebuilder\Damaged Files Rebuilder\obj\Debug\Damaged_Files_Rebuilder.Properties.Resources.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Damaged Files Rebuilder\Damaged Files Rebuilder\obj\Debug\Damaged_Files_Rebuilder.Ventana_Acerca.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Damaged Files Rebuilder\Damaged Files Rebuilder\obj\Debug\Damaged_Files_Rebuilder.Ventana_Depurador_Excepciones.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Damaged Files Rebuilder\Damaged Files Rebuilder\obj\Debug\Damaged_Files_Rebuilder.Ventana_Principal.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Damaged Files Rebuilder\Damaged Files Rebuilder\obj\Debug\Damaged Files Rebuilder.csproj.GenerateResource.cache
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Damaged Files Rebuilder\Damaged Files Rebuilder\obj\Debug\Damaged Files Rebuilder.csproj.CoreCompileInputs.cache
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Damaged Files Rebuilder\Damaged Files Rebuilder\obj\Debug\Damaged Files Rebuilder.exe
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Damaged Files Rebuilder\Damaged Files Rebuilder\obj\Debug\Damaged Files Rebuilder.pdb
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Damaged Files Rebuilder\Damaged Files Rebuilder\obj\Debug\Damaged Files Rebuilder.csprojAssemblyReference.cache
